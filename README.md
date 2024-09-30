@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aslı Güngör</h1>
-<h3 align="center">I'm a Senior Computer Engineering student and an AI intern at BeamSec, focusing on AI-driven cybersecurity solutions. I have a strong foundation in data science,machine learning and backend development, and I enjoy creating innovative solutions to complex challenges.</h3>
+<h3 align="center">I'm a Senior Computer Engineering student at TED University and an AI intern at BeamSec. I have a strong foundation in data science,machine learning and backend development, and I enjoy creating innovative solutions to complex challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asligungorr&label=Profile%20views&color=0e75b6&style=flat" alt="asligungorr" /> </p>
 
