@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asligungorr" alt="asligungorr" /></a> </p>
 
-- 💬 Ask me about **Machine Learning , Backend Development.**
-
 - 📫 How to reach me **asligungorr4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
