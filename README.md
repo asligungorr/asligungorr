@@ -26,5 +26,5 @@ I specialize in the end-to-end lifecycle of intelligent systems. My focus is on 
 - **Data & Ops:** Redis (Task Queuing), PostgreSQL/MongoDB, AWS (EC2/S3)
 
 #### 💻 Engineering Core
-- **Primary Language:** Python (Expert), C#, JavaScript
+- **Primary Language:** Python (Expert), Java, JavaScript
 - **Testing:** Pytest (Unit and Integration testing for ML systems)
